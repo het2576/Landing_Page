@@ -1,29 +1,31 @@
 # Landing Page Project
 
-## Overview
+This repository contains the code for a responsive and visually appealing landing page.
 
-This is a responsive and visually appealing landing page designed to showcase a modern layout with smooth animations and transitions. It features a two-section layout with a left content panel for text and a right content panel containing visually engaging images. The animations and hover effects have been crafted to enhance user interactivity and provide a sleek browsing experience.
+## Project Description
 
-## Features
+The landing page features a two-section layout with smooth animations of text and images, providing an engaging user experience. It leverages CSS animations and transitions to create a visually captivating interface.
 
-- **Responsive Design**: The layout adapts smoothly to different screen sizes and devices, ensuring an optimized viewing experience.
-- **Smooth Animations**: On page load, the "Hello" text appears with a fade-in and slide-in animation, creating a visually engaging introduction.
-- **Interactive Hover Effects**: Images in the right panel respond to hover with subtle scaling and brightness adjustments, adding a modern touch.
-- **Easy-to-Navigate Structure**: Clean and intuitive navigation that works across desktop and mobile devices.
-- **Custom Fonts**: Uses Google Fonts for a unique and appealing typography experience.
+## Key Features
+
+- Smooth animations and transitions for images and text
+- Responsive design suitable for various screen sizes
+- Customizable and modular code structure
+
+## Live Demo
+
+Check out the live version of the landing page [here](https://het2576.github.io/Landing_Page/index.html).
 
 ## Technologies Used
 
-- **HTML5 & CSS3**: Core technologies for building and styling the page.
-- **Google Fonts**: Integrated custom fonts for better aesthetics.
-- **Media Queries**: Ensures responsiveness and adaptability on different devices.
+- HTML5
+- CSS3 (including keyframe animations and transitions)
+- Google Fonts for custom typography
 
-## Usage
+## Installation
 
-1. Clone or download this repository.
-2. Open the `index.html` file in your preferred browser to view the landing page.
-3. Customize styles by modifying the `style.css` file as needed.
+To run this project locally:
 
-## Contributing
-
-Feel free to fork this repository, make your own changes, and submit pull requests for improvements.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/het2576/Landing_Page.git
